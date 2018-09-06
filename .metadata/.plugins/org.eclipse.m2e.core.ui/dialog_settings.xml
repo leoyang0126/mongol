@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+			<item value="GitHub Issues"/>
+			<item value="github"/>
+		</list>
+		<list key="issueManagementUrl">
+			<item value="https://github.com/Baidu-ecom/Jprotobuf-rpc-socket/issues"/>
+			<item value="https://github.com/Red5/red5-client/issues"/>
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/Users/yi/Documents/smartgo/codeelse/code/storm-jms-master"/>
+			<item value="/Users/yi/Documents/LeoYangWorkspace/Jprotobuf-rpc-socket-master"/>
+			<item value="/Users/yi/Documents/smartgo/codeelse/code/red5-examples-master"/>
+			<item value="/Users/yi/Documents/smartgo/codeelse/code/red5-client-master"/>
+			<item value="/Users/yi/Documents/smartgo/codeelse/code/red5-server-master"/>
+			<item value="/Users/yi/Documents/smartgo/codeelse/code/jstorm-master"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

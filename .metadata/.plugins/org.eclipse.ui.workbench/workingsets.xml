@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1534416545069_1" label="jstorm-all" name="jstorm-all">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jstorm-core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jstorm-hdfs" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jstorm-ons" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/flux-core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/sequence-split-merge" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jstorm-yarn" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jstorm-all" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jstorm-flux" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jstorm-hbase-metrics-plugin" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/flux-examples" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jstorm-ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jstorm-elasticsearch" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jstorm-kafka" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1534422853133_2" label="red5-examples" name="red5-examples">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/red5-examples" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/red5-example-oflaDemo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/springmvc" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/red5-example-s3" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/red5-example-bwcheck" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/red5-example-SOSample" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1535162708271_3" label="jprotobuf-rpc-socket" name="jprotobuf-rpc-socket">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jprotobuf-rpc-ext-validator" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jprotobuf-rpc-core-spring2" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jprotobuf-rpc-registry-bns" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jprotobuf-rpc-core-spring-base" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jprotobuf-rpc-socket" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jprotobuf-rpc-core-spring" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jprotobuf-rpc-core-test" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jprotobuf-rpc-registry-redis" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jprotobuf-rpc-core" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1534411381302_0" label="Window Working Set" name="Aggregate for window 1534411381302"/>
+</workingSetManager>
